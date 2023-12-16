@@ -11,5 +11,9 @@
     "spdlog",
     "tomlplusplus",
     "xbyak"
+  ],
+  "builtin-baseline": "900cac98fef6cd8da209b6acb79c52deb0e35ecf",
+  "overrides": [
+    { "name": "tomlplusplus", "version": "3.1.0" }
   ]
 }
